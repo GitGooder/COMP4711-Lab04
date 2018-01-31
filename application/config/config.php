@@ -6,8 +6,8 @@ $config['menu_choices'] = array(
     'menudata' => array(
         array('name' => 'Alpha', 'link' => '/Able'),
         array('name' => 'Bravo', 'link' => '/bravo'),
+        array('name' => 'Delta', 'link' => '/delta/Force'),
         array('name' => 'Charlie', 'link' => '/Charlie/Brown'),
-        array('name' => 'Delta', 'link' => '#'),
         array('name' => 'Echo', 'link' => '#'),
         array('name' => 'Foxtrot', 'link' => '#'),
         array('name' => 'Golf', 'link' => '#'),
